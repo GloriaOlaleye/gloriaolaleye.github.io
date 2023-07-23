@@ -4,6 +4,14 @@
 
 In this case study, I performed many real-world tasks of a junior data analyst working for fictional company, Cyclistic. In order to answer the key business questions, I meticulously followed the steps of the data analysis process which include ask, prepare, process, analyze, share, and act.
 
+## Links
+Data Source: <a href="https://divvy-tripdata.s3.amazonaws.com/index.html">Divvy_TripData</a>
+
+SQL Queries
+<a href="https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/Cyclistic%20%20tripdata%20exploration.sql">Data Exploration</a>
+Data Cleaning and Analysis
+
+
 ## Background about the company
 
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
