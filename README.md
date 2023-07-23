@@ -29,4 +29,12 @@ Three questions will guide the future marketing program:
 
 ## Prepare
 
-I used Cyclistic’s historical trip data to analyze and identify trends. I used the data from Apri, 2022 to March, 2023 downloaded <a href="https://divvy-tripdata.s3.amazonaws.com/index.html">here.</a> The data has been made available by Motivate International Inc. under this <a href="https://ride.divvybikes.com/data-license-agreement">lincense.</a>
+I used Cyclistic’s historical trip data to analyze and identify trends. I used the data from Apri, 2022 to March, 2023 downloaded <a href="https://divvy-tripdata.s3.amazonaws.com/index.html">here.</a> The data has been made available by Motivate International Inc. under this <a href="https://ride.divvybikes.com/data-license-agreement">lincense.</a> This is public data that you can use to explore how different customer types are using Cyclistic bikes. But note that data-privacy issues prohibit you from using riders’ personally identifiable information. This means that you won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
+
+### Data Organization
+There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file includes information for each month with colunmn headers including ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng and member_casual.
+
+## Process
+
+SQL server management studio was used to combine the various datasets into one dataset and clean it. This is because the volume in each month dataset cannot be acccomodated as the rows exceed the capacity of Microsoft Excel as well Google Sheets. SQL server is a database platform that can accomodate millions of rows of data.
+I combined and explored the data in SQL server management studio. The query used can be found here
