@@ -8,7 +8,9 @@ In this case study, I performed many real-world tasks of a junior data analyst w
 Data Source: <a href="https://divvy-tripdata.s3.amazonaws.com/index.html">Divvy_TripData</a>
 
 SQL Queries
+
 <a href="https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/Cyclistic%20%20tripdata%20exploration.sql">Data Exploration</a>
+
 <a href="https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/Cyclistic%20tripdata%20Cleaning.sql">Data Cleaning and Analysis</a>
 
 
