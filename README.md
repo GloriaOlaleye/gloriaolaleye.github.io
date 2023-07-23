@@ -9,6 +9,7 @@ Data Source: <a href="https://divvy-tripdata.s3.amazonaws.com/index.html">Divvy_
 
 SQL Queries
 <a href="https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/Cyclistic%20%20tripdata%20exploration.sql">Data Exploration</a>
+<a href="https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/Cyclistic%20%20tripdata%20exploration.sql">Data Exploration</a>
 Data Cleaning and Analysis
 
 
