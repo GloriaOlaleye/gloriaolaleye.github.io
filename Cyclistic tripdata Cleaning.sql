@@ -147,9 +147,31 @@ SELECT ride_id,
 select *
 from CyclisticTripdataCleaned
 
-----After cleaning the data, we are left with 4,385,626 rows
+--removing duplicates
 
 
+with rownumcte as(
+select *,
+       ROW_NUMBER() over (
+	   partition by ride_type,
+	                started_at,
+                    ended_at,
+                    start_station_name,
+                    end_station_name,
+                    start_lat,start_lng,  
+                    end_lat,end_lng,
+                    member_type
+                    order by 
+			 ride_id
+		         ) row_num
+from CyclisticTripdataCleaned
+--order by ride_id, member_type
+)
+delete
+from rownumcte
+where row_num > 1
+
+----After cleaning the data, we are left with 4,381,192 rows	
 
 ------------------ANALYSIS--------------------
 
