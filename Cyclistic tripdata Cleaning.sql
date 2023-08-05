@@ -1,4 +1,4 @@
---I combined the 12 months data below from April,2022 to March 2023. I used a te,p table for this.
+--I combined the 12 months data below from April,2022 to March 2023. I used a temp table for this.
 
 
 Drop Table If exists CyclisticTripdata
