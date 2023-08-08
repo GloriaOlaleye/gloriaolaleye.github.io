@@ -111,9 +111,8 @@ WHERE start_lat IS NULL OR
  end_lat IS NULL OR
  end_lng IS NULL
 
-----i checked for rows which have  end_lat, end_lng  as NULL and this returned 6,396 rows.
+----i checked for rows which have  start_lat, start_lng, end_lat, end_lng  as NULL and this returned 6,396 rows.
  --i checked the member_casual column as well
-
 
 SELECT COUNT (DISTINCT member_casual)
 from CyclisticTripdata
