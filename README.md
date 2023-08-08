@@ -15,7 +15,7 @@ SQL Queries
 
  Data Visualization
 
-<a href="https://public.tableau.com/app/profile/gloria.olaleye/viz/CyclisticTripdataDashboard/TotalTripsatStartingStation">TABLEAU</a>
+<a href="https://public.tableau.com/app/profile/gloria.olaleye/viz/CyclisticTripdataDashboard/RideType">TABLEAU</a>
 
 ## Background about the company
 
@@ -88,4 +88,4 @@ The SQL Queries used for cleaning the data can be found <a href="https://github.
 2. Leading spaces were trimmed off within the station names.
 3. start_station_id and end_station_id column were excluded as they were not needed in the analysis.
 4. Three new columns were created namely: Day_of_week, Month and Year_value.
-5. After the cleaning
+5. After the cleaning, we have 4,385,626 rows left.
