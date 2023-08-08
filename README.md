@@ -15,7 +15,7 @@ SQL Queries
 
  Data Visualization
 
-<a href="https://public.tableau.com/app/profile/gloria.olaleye/viz/CyclisticTripdataDashboard/Dashboard2?publish=yes">TABLEAU</a>
+<a href="https://public.tableau.com/app/profile/gloria.olaleye/viz/CyclisticTripdataDashboard/TotalTripsatStartingStation">TABLEAU</a>
 
 ## Background about the company
 
