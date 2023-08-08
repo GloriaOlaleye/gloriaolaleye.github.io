@@ -55,4 +55,18 @@ I combined and explored the data in SQL server management studio. The query used
 Observations:
 
 1. The primary key is the ride_id column. The table below shows column names as well as their data types.
-2. ![image](datatype.png)
+  
+ ![image](datatype.png).
+   
+2. The ride_id column has 5,828,894 rows with 16 characters, 143 rows with 11 characters, 24 rows with 8 characters, 17 rows with 10 charaters and 6 rows with 9 characters. All of the ride_id are distinct.
+ 
+ ![image](1.png).
+
+3. There are 3 distict ride types; electric_bikes, classic_bikes and docked_bikes.
+ 
+ ![image](2.png)
+
+ 4. The started_at and ended_at shows start time and end time of the trip in YYYY-MM-DD hh:mm:ss format. There were 180,776 trips with ride duration less than one minute, greater than one day or having end time earlier than start time.
+
+ 5. 
+ 6. 
