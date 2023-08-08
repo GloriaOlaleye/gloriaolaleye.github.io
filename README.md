@@ -68,5 +68,6 @@ Observations:
 
  5. The started_at and ended_at shows start time and end time of the trip in YYYY-MM-DD hh:mm:ss format. There were 180,776 trips with ride duration less than one minute, greater than one day or having end time earlier than start time.
 
+7. Total of 1,330,940 rows have start_station_name, start_station_id, end_station_name, end_station_id missing. These will be removed during the data cleaning process.
   
-
+8. Total of 6,396 rows have start_lat, start_lng, end_lat and end_lng  missing. These will be removed during the data cleaning process.
