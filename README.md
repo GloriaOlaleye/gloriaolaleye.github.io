@@ -51,3 +51,8 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 
 SQL server management studio was used to combine the various datasets into one dataset and clean it. This is because the volume in each month dataset cannot be acccomodated as the rows exceed the capacity of Microsoft Excel as well Google Sheets. SQL server is a database platform that can accomodate millions of rows of data.
 I combined and explored the data in SQL server management studio. The query used can be found <a href="https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/Cyclistic%20%20tripdata%20exploration.sql">here.</a>
+
+Observations:
+
+1. The primary key is the ride_id column. The table below shows column names as well as their data types.
+2. ![image](datatype.png)
