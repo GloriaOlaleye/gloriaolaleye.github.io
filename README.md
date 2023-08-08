@@ -50,7 +50,11 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 ## Process
 
 SQL server management studio was used to combine the various datasets into one dataset and clean it. This is because the volume in each month dataset cannot be acccomodated as the rows exceed the capacity of Microsoft Excel as well Google Sheets. SQL server is a database platform that can accomodate millions of rows of data.
-I combined and explored the data in SQL server management studio. The query used can be found <a href="https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/Cyclistic%20%20tripdata%20exploration.sql">here.</a>
+
+### Data Exploration
+
+I combined and explored the data in SQL server management studio. The query used can be found 
+<a href="https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/Cyclistic%20%20tripdata%20exploration.sql">here.</a>
 
 Observations:
 
@@ -71,3 +75,17 @@ Observations:
 7. Total of 1,330,940 rows have start_station_name, start_station_id, end_station_name, end_station_id missing. These will be removed during the data cleaning process.
   
 8. Total of 6,396 rows have start_lat, start_lng, end_lat and end_lng  missing. These will be removed during the data cleaning process.
+
+9. The member_casual column has 2 unique values: casual and member.
+
+    ![image](3.png)
+
+### Data Cleaning
+
+The SQL Queries used for cleaning the data can be found <a href="https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/Cyclistic%20tripdata%20Cleaning.sql">here.</a>
+
+1. The rows with missing values were deleted.
+2. Leading spaces were trimmed off within the station names.
+3. start_station_id and end_station_id column were excluded as they were not needed in the analysis.
+4. Three new columns were created namely: Day_of_week, Month and Year_value.
+5. After the cleaning
