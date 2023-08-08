@@ -68,5 +68,5 @@ Observations:
 
  5. The started_at and ended_at shows start time and end time of the trip in YYYY-MM-DD hh:mm:ss format. There were 180,776 trips with ride duration less than one minute, greater than one day or having end time earlier than start time.
 
- 6. 
- 7. 
+  
+
