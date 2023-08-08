@@ -117,4 +117,8 @@ WHERE start_lat IS NULL OR
 SELECT COUNT (DISTINCT member_casual)
 from CyclisticTripdata
 
+SELECT member_casual, COUNT (ride_id) as num_of_rides
+from CyclisticTripdata
+group by member_casual
+
 --this column contains 2 distinct values; casual and members
