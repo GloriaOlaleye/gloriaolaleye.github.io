@@ -128,7 +128,6 @@ Averagely, casual riders cycle longer than members (2x or more approximately)
 Members have almost steady average trip duration throughout the year, week and day.
 Averagely, there was  a significant increase in the trip duration for casual riders during spring and summer. Between 10am and 4pm, the average trip duration of casual riders is 3x that of members with slight increase in the morning.
 
-It can be concluded that casual riders travel longer than members while members make more trips than casual riders.
   
    ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/x.png)
 
@@ -138,3 +137,6 @@ Casual riders always start their trips around beaches, shores, parks, aquariums,
   ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/y.png)
 
  Similarly, these trends were observed in the ending stations. casual riders end their trips around places they start from. This applies to members as well.   
+In conclusion, it can be concluded that casual riders travel longer than members while members make more trips than casual riders. Moreover, Casual riders make use of Cyclistic bikes for leisure purposes while members use Cyclistic bikes to commute to and from work.
+
+## Act
