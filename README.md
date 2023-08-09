@@ -140,3 +140,11 @@ Casual riders always start their trips around beaches, shores, parks, aquariums,
 In conclusion, it can be concluded that casual riders travel longer than members while members make more trips than casual riders. Moreover, Casual riders make use of Cyclistic bikes for leisure purposes while members use Cyclistic bikes to commute to and from work.
 
 ## Act
+
+### Recommendations
+
+Since casual riders travel for longer duration, discount may be introduced as part of the marketing strategy to attract casual riders.
+
+Marketing strategies to convert casual riders to members should be made during spring, summer and during weekends and at place frequent by casual riders (recreational centres).
+
+I recommend seasonal or weekend membership for casual members beacuse of their trip patterns.
