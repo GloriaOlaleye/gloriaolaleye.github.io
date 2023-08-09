@@ -97,7 +97,7 @@ The relevant tables were queried for analysis and the sql queries used can be fo
 After the analysis, the resuts were visualized in Tableau. the visualizations can be accessed 
 <a href="https://public.tableau.com/app/profile/gloria.olaleye/viz/CyclisticTripdataDashboard/RideType">here.</a>
 
-The analysis question: How do annual members and casual riders use Cyclistic bikes differntly? will be answered from insight  generated from the data visualization.
+The analysis question: How do annual members and casual riders use Cyclistic bikes differently? will be answered from insight  generated from the data visualization.
 
 The comparison between members and casual riders will be made from
 1. #### Ride Type
@@ -124,7 +124,11 @@ Moreover, it can be infered that members make use of Cylistic bikes for the purp
 
    ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/c.png)
 
+Averagely, casual riders cycle longer than members (2x or more approximately)
+Members have almost steady average trip duration throughout the year, week and day.
+Averagely, there was  a significant increase in the trip duration for casual riders during spring and summer. Between 10am and 4pm, the average trip duration of casual riders is 3x that of members with slight increase in the morning.
 
+It can be concluded that casual riders travel longer than members while members make more trips than casual riders.
   
    ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/d.png)
    
