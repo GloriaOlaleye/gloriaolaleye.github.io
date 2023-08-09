@@ -89,3 +89,15 @@ The SQL Queries used for cleaning the data can be found <a href="https://github.
 3. start_station_id and end_station_id column were excluded as they were not needed in the analysis.
 4. Three new columns were created namely: Day_of_week, Month and Year_value.
 5. After the cleaning, we have 4,385,626 rows left.
+
+## Analyze and Share
+
+
+
+    ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/a.png)
+    ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/b.png)
+    ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/c.png)
+    ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/d.png)
+    ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/e.png)
+
+    
