@@ -102,6 +102,6 @@ The SQL Queries used for cleaning the data can be found <a href="https://github.
    
    ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/d.png)
    
-   ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/e.png)
+  ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/e.png)
 
     
