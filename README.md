@@ -92,12 +92,31 @@ The SQL Queries used for cleaning the data can be found <a href="https://github.
 
 ## Analyze and Share
 
+The relevant tables were queried for analysis and the sql queries used can be found <a href="https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/Cyclistic%20tripdata%20Cleaning.sql">here.</a>
 
+After the analysis, the resuts were visualized in Tableau. the visualizations can be accessed 
+<a href="https://public.tableau.com/app/profile/gloria.olaleye/viz/CyclisticTripdataDashboard/RideType">here.</a>
 
+The analysis question: How do annual members and casual riders use Cyclistic bikes differntly? will be answered from insight  generated from the data visualization.
+
+The comparison between members and casual riders will be made from
+1. #### Ride Type
+ 
    ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/a.png)
-   
+
+   Members made 59.97% of total riders while casual riders constitute the remaining 40.03%. Only casual riders use docked_bike.
+
+2. #### Distribution of the number of trips by months, days of the week and hour of the day
+
+ 
    ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/b.png)
-   
+
+ Members made more trips all through the  year. Total trips made by both members and casual riders increase gradually  February and reach the peak during summer (July and August). The least trips are made during winter.
+ 
+ During the weekdays, members have the highest number of trips. During the weekend, there is significant drop in the number of trips made by members and a significant increase in the number of trips made by casual riders.
+
+ 
+
    ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/c.png)
    
    ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/d.png)
