@@ -102,7 +102,7 @@ The analysis question: How do annual members and casual riders use Cyclistic bik
 The comparison between members and casual riders will be made from
 1. #### Ride Type
  
-   ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/a.png)
+   ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/f.png)
 
    Members made 59.97% of total riders while casual riders constitute the remaining 40.03%. Only casual riders use docked_bike.
 
