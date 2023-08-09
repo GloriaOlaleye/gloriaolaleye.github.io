@@ -130,8 +130,11 @@ Averagely, there was  a significant increase in the trip duration for casual rid
 
 It can be concluded that casual riders travel longer than members while members make more trips than casual riders.
   
-   ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/d.png)
-   
-  ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/e.png)
+   ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/x.png)
 
-    
+Casual riders always start their trips around beaches, shores, parks, aquariums, museums, and harbors while members start theirs close to library, restaurants, convenient stores, train stations, parks and hospitals.
+
+   
+  ![image](https://github.com/GloriaOlaleye/gloriaolaleye.github.io/blob/main/pictures/y.png)
+
+ Similarly, these trends were observed in the ending stations. casual riders end their trips around places they start from. This applies to members as well.   
