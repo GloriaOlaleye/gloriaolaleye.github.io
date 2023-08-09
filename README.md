@@ -117,7 +117,7 @@ The comparison between members and casual riders will be made from
 
 During the  day, the members distribution show 2 major peaks. the first is between 5am and 10am and the other is between 3pm and 8pm. For casual riders, there is a steady increase in the number of trips made during the day till evening and decrease later on.
 
-From the visualizations above, boyh members and casual riders make use of Cyclistic bikes more during summer and spring.
+From the visualizations above, both members and casual riders make use of Cyclistic bikes more during summer and spring.
 Moreover, it can be infered that members make use of Cylistic bikes for the purpose of commuting to and from there workplace while casual riders use Cyclistic bikes thouhout the day and more during the weekend probably for recreational purposes.
 
 #### Comparison of the average ride duration by months, days of the week and hour of the day
