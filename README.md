@@ -5,7 +5,7 @@
 In this case study, I performed many real-world tasks of a junior data analyst working for fictional company, Cyclistic. In order to answer the key business questions, I meticulously followed the steps of the data analysis process which include ask, prepare, process, analyze, share, and act.
 
 ## Links
-Data Source: <a href="https://divvy-tripdata.s3.amazonaws.com/index.html">Divvy_TripData</a>
+Data Source: <a href="https://www.mavenanalytics.io/data-playground?page=9&pageSize=5">NYC_Traffic_Accidents</a>
 
 SQL Queries
 
